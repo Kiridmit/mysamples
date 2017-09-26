@@ -1,0 +1,8 @@
+D:\_2gis\test\UserCollectionTests\bin\Debug\UserCollectionTests.dll
+D:\_2gis\test\UserCollectionTests\bin\Debug\UserCollectionTests.pdb
+D:\_2gis\test\UserCollectionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\_2gis\test\UserCollectionTests\bin\Debug\UserCollection.dll
+D:\_2gis\test\UserCollectionTests\bin\Debug\UserCollection.pdb
+D:\_2gis\test\UserCollectionTests\obj\Debug\UserCollectionTests.csprojResolveAssemblyReference.cache
+D:\_2gis\test\UserCollectionTests\obj\Debug\UserCollectionTests.dll
+D:\_2gis\test\UserCollectionTests\obj\Debug\UserCollectionTests.pdb

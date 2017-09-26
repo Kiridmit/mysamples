@@ -1,0 +1,7 @@
+D:\_2gis\test\bin\Debug\UserCollectionDemo.exe
+D:\_2gis\test\bin\Debug\UserCollectionDemo.pdb
+D:\_2gis\test\bin\Debug\UserCollection.dll
+D:\_2gis\test\bin\Debug\UserCollection.pdb
+D:\_2gis\test\obj\Debug\UserCollectionDemo.csprojResolveAssemblyReference.cache
+D:\_2gis\test\obj\Debug\UserCollectionDemo.exe
+D:\_2gis\test\obj\Debug\UserCollectionDemo.pdb
